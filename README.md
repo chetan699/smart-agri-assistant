@@ -1,5 +1,9 @@
 # Smart Agriculture Assistant
+## Live Demo
 
+**AgroCortex AI:** https://agrocortex-ai.streamlit.app/
+
+Explore crop recommendation, fertilizer recommendation, irrigation prediction, plant disease detection, and the simulated IoT workflow.
 Implementation of the multimodal deep-learning framework for agricultural
 decision support described in the accompanying paper (VIT-AP): multi-crop
 plant disease detection, crop recommendation, fertilizer recommendation,
